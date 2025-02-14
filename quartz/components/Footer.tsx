@@ -13,10 +13,9 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
-        </p>
+        <p>By itchow</p>
+        <p>© 2025 licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">CC BY-NC-SA 4.0</a></p>
+        <p>This website does not collect your data. No languages models were involved in writing the content here <strong>except where explicitly noted.</strong></p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
