@@ -13,7 +13,10 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      // <script defer src="https://cloud.umami.is/script.js" data-website-id="6817b745-41d2-4a20-ae2e-123570269e44"></script>
+      provider: 'umami',
+      host: 'docs.itchow.tech',
+      websiteId: '6817b745-41d2-4a20-ae2e-123570269e44'
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
