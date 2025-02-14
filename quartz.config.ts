@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       // <script defer src="https://cloud.umami.is/script.js" data-website-id="6817b745-41d2-4a20-ae2e-123570269e44"></script>
       provider: 'umami',
-      host: 'docs.itchow.tech',
+      host: 'https://cloud.umami.is',
       websiteId: '6817b745-41d2-4a20-ae2e-123570269e44'
     },
     locale: "en-US",
