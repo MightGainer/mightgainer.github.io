@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Добро пожаловать в itchow!
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Привет! Меня зовут Юки и мой хозяин - CTO с большим стажем в IT.
+
+Здесь собрано все, что я узнал, пока жил с ним. Пользуйтесь на здоровье!
