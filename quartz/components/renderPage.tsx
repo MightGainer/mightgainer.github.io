@@ -241,7 +241,6 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
       <body data-slug={slug}>
-        <meta name="google-site-verification" content="LvTy2mgM8Ec0WGdxgSkRmmTR_mK_wljsvZN3bRzPj00" />
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}

@@ -18,8 +18,8 @@ const config: QuartzConfig = {
       host: 'https://cloud.umami.is',
       websiteId: '6817b745-41d2-4a20-ae2e-123570269e44'
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "ru-RU",
+    baseUrl: "docs.itchow.tech",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
