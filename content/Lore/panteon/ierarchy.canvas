@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"ff73f74a7a961dcd","type":"file","file":"Lore/panteon/torrag.md","x":-810,"y":-420,"width":320,"height":140},
+		{"id":"b65cd2d608567015","type":"file","file":"Lore/panteon/creator.md","x":-300,"y":-700,"width":220,"height":50},
+		{"id":"919e4ab8f757bd68","type":"file","file":"Lore/panteon/priya.md","x":-386,"y":-415,"width":392,"height":131},
+		{"id":"79606e52144ba619","type":"file","file":"Lore/panteon/niss.md","x":45,"y":-1126,"width":495,"height":106},
+		{"id":"a8a5414b5e3dc685","type":"file","file":"Lore/panteon/virto.md","x":127,"y":-415,"width":361,"height":141},
+		{"id":"7c30ca946ddafeeb","type":"file","file":"Lore/panteon/mirael.md","x":617,"y":-415,"width":403,"height":141},
+		{"id":"3cb94e68af732720","type":"file","file":"Lore/panteon/inael.md","x":617,"y":-1123,"width":423,"height":100},
+		{"id":"b55fe8463870912a","type":"file","file":"Lore/panteon/aliara.md","x":446,"y":-808,"width":383,"height":135},
+		{"id":"8c57e53be97c3178","type":"file","file":"Lore/panteon/velion.md","x":900,"y":-808,"width":346,"height":135},
+		{"id":"b67533675d683473","type":"file","file":"Lore/panteon/eirun.md","x":-1517,"y":-833,"width":405,"height":114},
+		{"id":"b109d135e5f5d5f0","type":"file","file":"Lore/panteon/branor.md","x":-1017,"y":-850,"width":367,"height":148},
+		{"id":"e3b58a7d50f20e94","type":"file","file":"Lore/panteon/eridon.md","x":-588,"y":-1087,"width":405,"height":128}
+	],
+	"edges":[
+		{"id":"3c82791e54249cad","fromNode":"b65cd2d608567015","fromSide":"bottom","toNode":"ff73f74a7a961dcd","toSide":"top"},
+		{"id":"721673a7276ebdd4","fromNode":"b65cd2d608567015","fromSide":"bottom","toNode":"919e4ab8f757bd68","toSide":"top"},
+		{"id":"e719c1be1af55ab2","fromNode":"ff73f74a7a961dcd","fromSide":"right","toNode":"919e4ab8f757bd68","toSide":"left","fromEnd":"arrow"},
+		{"id":"0577bf1c93f745e6","fromNode":"a8a5414b5e3dc685","fromSide":"right","toNode":"7c30ca946ddafeeb","toSide":"left","fromEnd":"arrow"},
+		{"id":"6793abcb283d878c","fromNode":"b65cd2d608567015","fromSide":"right","toNode":"a8a5414b5e3dc685","toSide":"top"},
+		{"id":"e2b5a499f2bf6f75","fromNode":"b65cd2d608567015","fromSide":"right","toNode":"7c30ca946ddafeeb","toSide":"top"},
+		{"id":"6b1ceb2f0724bd2a","fromNode":"b55fe8463870912a","fromSide":"right","toNode":"8c57e53be97c3178","toSide":"left","fromEnd":"arrow"},
+		{"id":"264ed60d891375d7","fromNode":"79606e52144ba619","fromSide":"right","toNode":"3cb94e68af732720","toSide":"left","fromEnd":"arrow"},
+		{"id":"deba1cb8f08e17d8","fromNode":"b65cd2d608567015","fromSide":"top","toNode":"3cb94e68af732720","toSide":"bottom"},
+		{"id":"1aa9bc9ae9d9840b","fromNode":"b65cd2d608567015","fromSide":"right","toNode":"b55fe8463870912a","toSide":"left"},
+		{"id":"0e6371bf46242644","fromNode":"b65cd2d608567015","fromSide":"right","toNode":"8c57e53be97c3178","toSide":"bottom"},
+		{"id":"e50da1430a2027cd","fromNode":"b65cd2d608567015","fromSide":"top","toNode":"79606e52144ba619","toSide":"bottom"},
+		{"id":"f27176d2c3cff3b4","fromNode":"b65cd2d608567015","fromSide":"left","toNode":"b67533675d683473","toSide":"bottom"},
+		{"id":"4d7d4ffa7ab27fda","fromNode":"b65cd2d608567015","fromSide":"top","toNode":"e3b58a7d50f20e94","toSide":"bottom"},
+		{"id":"48d79642369f91c2","fromNode":"b65cd2d608567015","fromSide":"left","toNode":"b109d135e5f5d5f0","toSide":"right"},
+		{"id":"c033101d06471bce","fromNode":"b67533675d683473","fromSide":"right","toNode":"b109d135e5f5d5f0","toSide":"left","fromEnd":"arrow"}
+	]
+}
