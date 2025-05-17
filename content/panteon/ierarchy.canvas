@@ -1,17 +1,17 @@
 {
 	"nodes":[
-		{"id":"ff73f74a7a961dcd","type":"file","file":"Lore/panteon/torrag.md","x":-810,"y":-420,"width":320,"height":140},
-		{"id":"b65cd2d608567015","type":"file","file":"Lore/panteon/creator.md","x":-300,"y":-700,"width":220,"height":50},
-		{"id":"919e4ab8f757bd68","type":"file","file":"Lore/panteon/priya.md","x":-386,"y":-415,"width":392,"height":131},
-		{"id":"79606e52144ba619","type":"file","file":"Lore/panteon/niss.md","x":45,"y":-1126,"width":495,"height":106},
-		{"id":"a8a5414b5e3dc685","type":"file","file":"Lore/panteon/virto.md","x":127,"y":-415,"width":361,"height":141},
-		{"id":"7c30ca946ddafeeb","type":"file","file":"Lore/panteon/mirael.md","x":617,"y":-415,"width":403,"height":141},
-		{"id":"3cb94e68af732720","type":"file","file":"Lore/panteon/inael.md","x":617,"y":-1123,"width":423,"height":100},
-		{"id":"b55fe8463870912a","type":"file","file":"Lore/panteon/aliara.md","x":446,"y":-808,"width":383,"height":135},
-		{"id":"8c57e53be97c3178","type":"file","file":"Lore/panteon/velion.md","x":900,"y":-808,"width":346,"height":135},
-		{"id":"b67533675d683473","type":"file","file":"Lore/panteon/eirun.md","x":-1517,"y":-833,"width":405,"height":114},
-		{"id":"b109d135e5f5d5f0","type":"file","file":"Lore/panteon/branor.md","x":-1017,"y":-850,"width":367,"height":148},
-		{"id":"e3b58a7d50f20e94","type":"file","file":"Lore/panteon/eridon.md","x":-588,"y":-1087,"width":405,"height":128}
+		{"id":"ff73f74a7a961dcd","type":"file","file":"panteon/torrag.md","x":-810,"y":-420,"width":320,"height":140},
+		{"id":"b65cd2d608567015","type":"file","file":"panteon/creator.md","x":-300,"y":-700,"width":220,"height":60},
+		{"id":"919e4ab8f757bd68","type":"file","file":"panteon/priya.md","x":-386,"y":-415,"width":392,"height":131},
+		{"id":"79606e52144ba619","type":"file","file":"panteon/niss.md","x":45,"y":-1126,"width":495,"height":106},
+		{"id":"a8a5414b5e3dc685","type":"file","file":"panteon/virto.md","x":127,"y":-415,"width":361,"height":141},
+		{"id":"7c30ca946ddafeeb","type":"file","file":"panteon/mirael.md","x":617,"y":-415,"width":403,"height":141},
+		{"id":"3cb94e68af732720","type":"file","file":"panteon/inael.md","x":617,"y":-1123,"width":423,"height":100},
+		{"id":"b55fe8463870912a","type":"file","file":"panteon/aliara.md","x":446,"y":-808,"width":383,"height":135},
+		{"id":"8c57e53be97c3178","type":"file","file":"panteon/velion.md","x":900,"y":-808,"width":346,"height":135},
+		{"id":"b67533675d683473","type":"file","file":"panteon/eirun.md","x":-1517,"y":-833,"width":405,"height":114},
+		{"id":"b109d135e5f5d5f0","type":"file","file":"panteon/branor.md","x":-1017,"y":-850,"width":367,"height":148},
+		{"id":"e3b58a7d50f20e94","type":"file","file":"panteon/eridon.md","x":-588,"y":-1087,"width":405,"height":128}
 	],
 	"edges":[
 		{"id":"3c82791e54249cad","fromNode":"b65cd2d608567015","fromSide":"bottom","toNode":"ff73f74a7a961dcd","toSide":"top"},
